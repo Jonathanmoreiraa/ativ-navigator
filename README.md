@@ -1,4 +1,4 @@
-# ativ_navigation
+# ativ_navigator
 
 A new Flutter project.
 
